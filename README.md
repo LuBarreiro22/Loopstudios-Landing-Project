@@ -1,4 +1,4 @@
-# Loopstudios-Landing-Project
+# Loopstudios Landing Project with Mobile First
 
 Link 👉 https://loopstudios-project-lubarreiro.netlify.app/
 
